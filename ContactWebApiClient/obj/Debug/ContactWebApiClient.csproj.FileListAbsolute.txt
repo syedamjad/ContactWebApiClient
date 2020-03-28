@@ -48,3 +48,4 @@ C:\Users\syed.amjad\source\repos\ContactWebApiClient\ContactWebApiClient\obj\Deb
 C:\Users\syed.amjad\source\repos\ContactWebApiClient\ContactWebApiClient\obj\Debug\ContactWebApiClient.csproj.CopyComplete
 C:\Users\syed.amjad\source\repos\ContactWebApiClient\ContactWebApiClient\obj\Debug\ContactWebApiClient.exe
 C:\Users\syed.amjad\source\repos\ContactWebApiClient\ContactWebApiClient\obj\Debug\ContactWebApiClient.pdb
+C:\Users\syed.amjad\source\repos\ContactWebApiClient\ContactWebApiClient\obj\Debug\ContactWebApiClient.csproj.CoreCompileInputs.cache
